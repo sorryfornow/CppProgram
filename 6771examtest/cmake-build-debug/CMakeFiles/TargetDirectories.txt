@@ -1,0 +1,3 @@
+/Users/siqingzhang/Desktop/6771examtest/cmake-build-debug/CMakeFiles/6771examtest.dir
+/Users/siqingzhang/Desktop/6771examtest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/siqingzhang/Desktop/6771examtest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

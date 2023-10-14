@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/siqingzhang/Desktop/exam/build",
+  "command": "/usr/bin/clang++ -I/Users/siqingzhang/Desktop/exam/exam/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wsuggest-override -fstack-protector-strong -std=c++2a -o CMakeFiles/catch2_main.dir/lib/catch2_main.cpp.o -c /Users/siqingzhang/Desktop/exam/exam/lib/catch2_main.cpp",
+  "file": "/Users/siqingzhang/Desktop/exam/exam/lib/catch2_main.cpp"
+},
+{
+  "directory": "/Users/siqingzhang/Desktop/exam/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wsuggest-override -fstack-protector-strong -std=c++2a -o CMakeFiles/qa.dir/src/qa.cpp.o -c /Users/siqingzhang/Desktop/exam/exam/src/qa.cpp",
+  "file": "/Users/siqingzhang/Desktop/exam/exam/src/qa.cpp"
+},
+{
+  "directory": "/Users/siqingzhang/Desktop/exam/build",
+  "command": "/usr/bin/clang++ -I/Users/siqingzhang/Desktop/exam/exam/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wsuggest-override -fstack-protector-strong -std=c++2a -o CMakeFiles/qa_test_exe.dir/src/qa.test.cpp.o -c /Users/siqingzhang/Desktop/exam/exam/src/qa.test.cpp",
+  "file": "/Users/siqingzhang/Desktop/exam/exam/src/qa.test.cpp"
+}
+]

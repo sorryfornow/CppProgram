@@ -1,0 +1,3 @@
+/Users/siqingzhang/Desktop/test4ass2_6771/cmake-build-debug/CMakeFiles/test4ass2_6771.dir
+/Users/siqingzhang/Desktop/test4ass2_6771/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/siqingzhang/Desktop/test4ass2_6771/cmake-build-debug/CMakeFiles/rebuild_cache.dir

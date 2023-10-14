@@ -1,0 +1,6 @@
+/Users/siqingzhang/Desktop/exam/build/CMakeFiles/catch2_main.dir
+/Users/siqingzhang/Desktop/exam/build/CMakeFiles/qa.dir
+/Users/siqingzhang/Desktop/exam/build/CMakeFiles/qa_test_exe.dir
+/Users/siqingzhang/Desktop/exam/build/CMakeFiles/test.dir
+/Users/siqingzhang/Desktop/exam/build/CMakeFiles/edit_cache.dir
+/Users/siqingzhang/Desktop/exam/build/CMakeFiles/rebuild_cache.dir
